@@ -1,2 +1,2 @@
-# Chatbot-JAGABOTA
-Chatbot berbasis website untuk membantu memberikan informasi seputar objek wisata yang ada di Jawa Tengah
+# Chatbot-SADBOT
+Chatbot berbasis website untuk menjadi tempat berbagi cerita dan memberikan solusi masalah percintaan 
